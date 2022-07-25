@@ -20,4 +20,5 @@ jobs:
       run: |
           pytest
     - name: Run `pylint`
-      run : pylint square.py  
+      run : |
+          pylint square.py  
