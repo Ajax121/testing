@@ -1,4 +1,4 @@
-name: run_tests
+name: run_test
 on:
   push:
     branches: [master]
