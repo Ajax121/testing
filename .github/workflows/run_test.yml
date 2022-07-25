@@ -19,6 +19,6 @@ jobs:
       - name: Test with pytest
         run: |
           pytest
-      - name: Test with pylint
+      - name: Testing with pylint
         run: |
           pylint square.py
