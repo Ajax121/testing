@@ -1,7 +1,7 @@
 name: run_tests
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   my_build_test:
