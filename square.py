@@ -4,7 +4,7 @@ jbj
 import warnings
 
 def squ(num):
-    ''' 
+    '''
     hgj
     '''
     if isinstance(num,float):  # dont do  type(num) == float
