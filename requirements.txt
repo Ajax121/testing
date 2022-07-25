@@ -1,2 +1,2 @@
-pylist
+pylint
 pytest
