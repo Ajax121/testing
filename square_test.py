@@ -8,7 +8,7 @@ def test_out():
     """
     unit test working with classes
 
-    unit test - test an isolated unit of code
+    unit test - tests an isolated unit of code
     integration test - test the working interaction of ur code
 
     test file needs to be saved as filename_test.py
